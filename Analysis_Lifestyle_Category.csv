@@ -1,0 +1,414 @@
+id,recording_date,sleep_category,steps_category,sedentary_time_category,Lifestyle_category
+1503960366,4/12/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,4/13/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+1503960366,4/15/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+1503960366,4/16/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,4/17/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+1503960366,4/19/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,4/20/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+1503960366,4/21/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+1503960366,4/23/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+1503960366,4/24/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+1503960366,4/25/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,4/26/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,4/28/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+1503960366,4/29/2016,InSufficient,Active,Very High Risk,Unhealthy
+1503960366,4/30/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+1503960366,5/1/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+1503960366,5/2/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,5/3/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,5/5/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1503960366,5/6/2016,InSufficient,Active,Very High Risk,Unhealthy
+1503960366,5/7/2016,InSufficient,Active,Very High Risk,Unhealthy
+1503960366,5/8/2016,Oversleep,Active,High Risk,Unhealthy
+1503960366,5/9/2016,InSufficient,Active,Very High Risk,Unhealthy
+1503960366,5/10/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+1503960366,5/11/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1644430081,4/29/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+1644430081,4/30/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+1644430081,5/2/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+1644430081,5/8/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+1844505072,4/15/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+1844505072,4/30/2016,Oversleep,Inactive,Low Risk,Unhealthy
+1844505072,5/1/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+1927972279,4/12/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+1927972279,4/13/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+1927972279,4/15/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+1927972279,4/26/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+1927972279,4/28/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/12/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/13/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/14/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+2026352035,4/15/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/16/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/17/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+2026352035,4/19/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/20/2016,Sufficient,Low Activity,High Risk,Unhealthy
+2026352035,4/21/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+2026352035,4/22/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/23/2016,Oversleep,Active,Medium Risk,Needs less sleep time
+2026352035,4/24/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,4/25/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+2026352035,4/27/2016,Oversleep,Low Activity,High Risk,Unhealthy
+2026352035,4/28/2016,Oversleep,Low Activity,High Risk,Unhealthy
+2026352035,4/29/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+2026352035,4/30/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+2026352035,5/1/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,5/2/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+2026352035,5/4/2016,Oversleep,Low Activity,High Risk,Unhealthy
+2026352035,5/5/2016,Sufficient,Active,Medium Risk,Somewhat Healthy
+2026352035,5/6/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+2026352035,5/7/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+2026352035,5/8/2016,Oversleep,Low Activity,High Risk,Unhealthy
+2026352035,5/9/2016,Oversleep,Active,High Risk,Unhealthy
+2026352035,5/10/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+2026352035,5/11/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+2026352035,5/12/2016,Sufficient,Somewhat Active,Medium Risk,Somewhat Healthy
+2320127002,4/23/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+2347167796,4/13/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+2347167796,4/14/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+2347167796,4/15/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+2347167796,4/17/2016,Oversleep,Low Activity,High Risk,Unhealthy
+2347167796,4/18/2016,Oversleep,Somewhat Active,Very High Risk,Unhealthy
+2347167796,4/19/2016,Sufficient,Low Activity,High Risk,Unhealthy
+2347167796,4/21/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+2347167796,4/22/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+2347167796,4/23/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+2347167796,4/24/2016,Sufficient,Somewhat Active,High Risk,Needs less sitting time
+2347167796,4/25/2016,Sufficient,Somewhat Active,High Risk,Needs less sitting time
+2347167796,4/26/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+2347167796,4/27/2016,Sufficient,Active,High Risk,Needs less sitting time
+2347167796,4/28/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+2347167796,4/29/2016,Sufficient,Inactive,Low Risk,Needs Activity
+3977333714,4/12/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+3977333714,4/13/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,4/14/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+3977333714,4/15/2016,Sufficient,Somewhat Active,High Risk,Needs less sitting time
+3977333714,4/16/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+3977333714,4/17/2016,Sufficient,Active,High Risk,Needs less sitting time
+3977333714,4/18/2016,Sufficient,Active,High Risk,Needs less sitting time
+3977333714,4/19/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,4/20/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,4/21/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+3977333714,4/22/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+3977333714,4/23/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,4/24/2016,InSufficient,Highly Active,High Risk,Unhealthy
+3977333714,4/25/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,4/26/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,4/27/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+3977333714,4/28/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+3977333714,4/29/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,4/30/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+3977333714,5/1/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+3977333714,5/2/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+3977333714,5/3/2016,InSufficient,Highly Active,High Risk,Unhealthy
+3977333714,5/4/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+3977333714,5/5/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,5/6/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,5/7/2016,InSufficient,Active,Very High Risk,Unhealthy
+3977333714,5/8/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+3977333714,5/10/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+4020332650,4/12/2016,Oversleep,Somewhat Active,Very High Risk,Unhealthy
+4020332650,4/16/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4020332650,5/3/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4020332650,5/4/2016,Sufficient,Active,High Risk,Needs less sitting time
+4020332650,5/5/2016,InSufficient,Active,Very High Risk,Unhealthy
+4020332650,5/6/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4020332650,5/8/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4020332650,5/10/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4319703577,4/14/2016,Oversleep,Active,High Risk,Unhealthy
+4319703577,4/15/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4319703577,4/16/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+4319703577,4/18/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+4319703577,4/19/2016,Sufficient,Somewhat Active,High Risk,Needs less sitting time
+4319703577,4/20/2016,Oversleep,Somewhat Active,Very High Risk,Unhealthy
+4319703577,4/21/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4319703577,4/22/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+4319703577,4/23/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+4319703577,4/24/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4319703577,4/25/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+4319703577,4/26/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+4319703577,4/27/2016,InSufficient,Active,Very High Risk,Unhealthy
+4319703577,4/28/2016,Oversleep,Active,High Risk,Unhealthy
+4319703577,4/29/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+4319703577,4/30/2016,Oversleep,Somewhat Active,Very High Risk,Unhealthy
+4319703577,5/1/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+4319703577,5/2/2016,Sufficient,Somewhat Active,High Risk,Needs less sitting time
+4319703577,5/3/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4319703577,5/6/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4319703577,5/7/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+4319703577,5/8/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+4319703577,5/9/2016,Oversleep,Active,High Risk,Unhealthy
+4319703577,5/10/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+4319703577,5/11/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+4319703577,5/12/2016,InSufficient,Inactive,Low Risk,Unhealthy
+4388161847,4/15/2016,Oversleep,Somewhat Active,Very High Risk,Unhealthy
+4388161847,4/16/2016,Sufficient,Low Activity,High Risk,Unhealthy
+4388161847,4/17/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+4388161847,4/18/2016,InSufficient,Active,Very High Risk,Unhealthy
+4388161847,4/19/2016,InSufficient,Active,Very High Risk,Unhealthy
+4388161847,4/20/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4388161847,4/21/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4388161847,4/22/2016,InSufficient,Active,Very High Risk,Unhealthy
+4388161847,4/23/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+4388161847,4/24/2016,Oversleep,Active,High Risk,Unhealthy
+4388161847,4/26/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+4388161847,4/27/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4388161847,4/28/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4388161847,4/30/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+4388161847,5/1/2016,Oversleep,Active,High Risk,Unhealthy
+4388161847,5/2/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4388161847,5/4/2016,Sufficient,Active,High Risk,Needs less sitting time
+4388161847,5/5/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4388161847,5/5/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4388161847,5/7/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+4388161847,5/8/2016,Oversleep,Highly Active,High Risk,Unhealthy
+4388161847,5/9/2016,InSufficient,Active,Very High Risk,Unhealthy
+4388161847,5/10/2016,InSufficient,Active,High Risk,Unhealthy
+4388161847,5/11/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4445114986,4/12/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/13/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/14/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/15/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+4445114986,4/16/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/17/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4445114986,4/19/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/20/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/21/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/22/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4445114986,4/25/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4445114986,4/26/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+4445114986,4/27/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+4445114986,4/28/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,4/29/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4445114986,4/30/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+4445114986,5/1/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4445114986,5/2/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+4445114986,5/3/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4445114986,5/4/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4445114986,5/5/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,5/6/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,5/7/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4445114986,5/8/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4445114986,5/9/2016,Sufficient,Low Activity,High Risk,Unhealthy
+4445114986,5/10/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+4445114986,5/11/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+4445114986,5/12/2016,Oversleep,Inactive,Medium Risk,Unhealthy
+4558609924,4/21/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+4558609924,4/26/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+4558609924,4/29/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+4558609924,5/1/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+4558609924,5/8/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+4702921684,4/12/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4702921684,4/13/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4702921684,4/14/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,4/15/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+4702921684,4/16/2016,Sufficient,Active,High Risk,Needs less sitting time
+4702921684,4/17/2016,Oversleep,Highly Active,Medium Risk,Needs less sleep time
+4702921684,4/18/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+4702921684,4/19/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4702921684,4/20/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,4/21/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4702921684,4/23/2016,Sufficient,Highly Active,Medium Risk,Somewhat Healthy
+4702921684,4/24/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+4702921684,4/25/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,4/26/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4702921684,4/27/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4702921684,4/28/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,4/29/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,4/30/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4702921684,5/3/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+4702921684,5/4/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,5/5/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,5/6/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+4702921684,5/7/2016,Oversleep,Highly Active,High Risk,Unhealthy
+4702921684,5/7/2016,Oversleep,Highly Active,High Risk,Unhealthy
+4702921684,5/9/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+4702921684,5/10/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+4702921684,5/11/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+4702921684,5/12/2016,Sufficient,Inactive,Medium Risk,Needs Activity
+5553957443,4/12/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5553957443,4/13/2016,Sufficient,Inactive,High Risk,Unhealthy
+5553957443,4/14/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+5553957443,4/15/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+5553957443,4/16/2016,Oversleep,Low Activity,High Risk,Unhealthy
+5553957443,4/17/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+5553957443,4/18/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+5553957443,4/19/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+5553957443,4/20/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+5553957443,4/21/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5553957443,4/22/2016,InSufficient,Active,Very High Risk,Unhealthy
+5553957443,4/23/2016,Oversleep,Inactive,Medium Risk,Unhealthy
+5553957443,4/24/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+5553957443,4/25/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5553957443,4/26/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5553957443,4/27/2016,InSufficient,Active,Very High Risk,Unhealthy
+5553957443,4/28/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5553957443,4/29/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+5553957443,4/30/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+5553957443,5/1/2016,Oversleep,Low Activity,Medium Risk,Unhealthy
+5553957443,5/2/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+5553957443,5/3/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+5553957443,5/4/2016,Sufficient,Inactive,High Risk,Unhealthy
+5553957443,5/5/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+5553957443,5/6/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+5553957443,5/7/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+5553957443,5/8/2016,Oversleep,Low Activity,High Risk,Unhealthy
+5553957443,5/9/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5553957443,5/10/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+5553957443,5/11/2016,Sufficient,Inactive,High Risk,Unhealthy
+5553957443,5/12/2016,Sufficient,Inactive,Low Risk,Needs Activity
+5577150313,4/12/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+5577150313,4/13/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+5577150313,4/14/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+5577150313,4/15/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5577150313,4/16/2016,Sufficient,Highly Active,Medium Risk,Somewhat Healthy
+5577150313,4/17/2016,Oversleep,Active,High Risk,Unhealthy
+5577150313,4/18/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+5577150313,4/19/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+5577150313,4/20/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+5577150313,4/21/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+5577150313,4/22/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+5577150313,4/23/2016,Sufficient,Somewhat Active,High Risk,Needs less sitting time
+5577150313,4/24/2016,Oversleep,Highly Active,Medium Risk,Needs less sleep time
+5577150313,4/25/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+5577150313,4/26/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+5577150313,4/27/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+5577150313,4/28/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+5577150313,4/29/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+5577150313,4/30/2016,Sufficient,Active,High Risk,Needs less sitting time
+5577150313,5/1/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+5577150313,5/2/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+5577150313,5/3/2016,Oversleep,Active,High Risk,Unhealthy
+5577150313,5/4/2016,Oversleep,Low Activity,High Risk,Unhealthy
+5577150313,5/5/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+5577150313,5/10/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+5577150313,5/11/2016,Sufficient,Inactive,Medium Risk,Needs Activity
+6117666160,4/16/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+6117666160,4/17/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+6117666160,4/18/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+6117666160,4/19/2016,Sufficient,Active,Medium Risk,Somewhat Healthy
+6117666160,4/20/2016,Sufficient,Active,High Risk,Needs less sitting time
+6117666160,4/21/2016,Oversleep,Highly Active,High Risk,Unhealthy
+6117666160,4/22/2016,Sufficient,Somewhat Active,Medium Risk,Somewhat Healthy
+6117666160,4/23/2016,Oversleep,Active,Medium Risk,Needs less sleep time
+6117666160,4/24/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+6117666160,4/27/2016,Oversleep,Somewhat Active,Medium Risk,Needs less sleep time
+6117666160,4/28/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+6117666160,4/29/2016,Oversleep,Somewhat Active,Medium Risk,Needs less sleep time
+6117666160,5/1/2016,Oversleep,Somewhat Active,High Risk,Unhealthy
+6117666160,5/5/2016,Sufficient,Somewhat Active,Medium Risk,Somewhat Healthy
+6117666160,5/6/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+6117666160,5/7/2016,Oversleep,Low Activity,Medium Risk,Unhealthy
+6117666160,5/8/2016,Oversleep,Low Activity,High Risk,Unhealthy
+6117666160,5/9/2016,Oversleep,Inactive,Low Risk,Unhealthy
+6775888955,4/13/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+6775888955,4/14/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+6775888955,4/15/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+6962181067,4/12/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+6962181067,4/13/2016,Oversleep,Low Activity,High Risk,Unhealthy
+6962181067,4/14/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+6962181067,4/15/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+6962181067,4/16/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+6962181067,4/17/2016,Sufficient,Active,High Risk,Needs less sitting time
+6962181067,4/18/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+6962181067,4/19/2016,Sufficient,Active,High Risk,Needs less sitting time
+6962181067,4/20/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+6962181067,4/21/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+6962181067,4/22/2016,Sufficient,Active,High Risk,Needs less sitting time
+6962181067,4/23/2016,Oversleep,Highly Active,High Risk,Unhealthy
+6962181067,4/24/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+6962181067,4/25/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+6962181067,4/26/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+6962181067,4/27/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+6962181067,4/28/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+6962181067,4/29/2016,Sufficient,Active,High Risk,Needs less sitting time
+6962181067,4/30/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+6962181067,5/1/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+6962181067,5/2/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+6962181067,5/3/2016,Sufficient,Active,High Risk,Needs less sitting time
+6962181067,5/4/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+6962181067,5/5/2016,Sufficient,Active,High Risk,Needs less sitting time
+6962181067,5/6/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+6962181067,5/7/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+6962181067,5/8/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+6962181067,5/9/2016,Oversleep,Active,High Risk,Unhealthy
+6962181067,5/10/2016,Sufficient,Highly Active,High Risk,Needs less sitting time
+6962181067,5/11/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+6962181067,5/12/2016,Oversleep,Inactive,Low Risk,Unhealthy
+7007744171,4/16/2016,InSufficient,Inactive,Very High Risk,Very Unhealthy
+7007744171,5/1/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+7086361926,4/12/2016,Oversleep,Active,Very High Risk,Unhealthy
+7086361926,4/13/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+7086361926,4/14/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+7086361926,4/15/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+7086361926,4/19/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+7086361926,4/20/2016,Oversleep,Highly Active,Very High Risk,Unhealthy
+7086361926,4/21/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+7086361926,4/22/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+7086361926,4/24/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+7086361926,4/25/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+7086361926,4/26/2016,Oversleep,Active,Very High Risk,Unhealthy
+7086361926,4/27/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+7086361926,4/28/2016,InSufficient,Active,Very High Risk,Unhealthy
+7086361926,4/30/2016,Oversleep,Highly Active,High Risk,Unhealthy
+7086361926,5/1/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+7086361926,5/2/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+7086361926,5/3/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+7086361926,5/4/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+7086361926,5/6/2016,InSufficient,Active,Very High Risk,Unhealthy
+7086361926,5/7/2016,Oversleep,Highly Active,High Risk,Unhealthy
+7086361926,5/8/2016,Oversleep,Active,Very High Risk,Unhealthy
+7086361926,5/9/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+7086361926,5/11/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+7086361926,5/12/2016,Sufficient,Inactive,Medium Risk,Needs Activity
+8053475328,4/20/2016,Oversleep,Highly Active,Very High Risk,Unhealthy
+8053475328,4/23/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+8053475328,5/7/2016,InSufficient,Highly Active,Very High Risk,Unhealthy
+8378563200,4/12/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+8378563200,4/13/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+8378563200,4/14/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+8378563200,4/15/2016,Oversleep,Highly Active,Very High Risk,Unhealthy
+8378563200,4/16/2016,Oversleep,Active,High Risk,Unhealthy
+8378563200,4/17/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+8378563200,4/18/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+8378563200,4/19/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+8378563200,4/20/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+8378563200,4/21/2016,Sufficient,Highly Active,Very High Risk,Needs less sitting time
+8378563200,4/22/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+8378563200,4/23/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+8378563200,4/24/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8378563200,4/25/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+8378563200,4/25/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+8378563200,4/26/2016,Oversleep,Highly Active,High Risk,Unhealthy
+8378563200,4/27/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+8378563200,4/28/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+8378563200,4/29/2016,Oversleep,Low Activity,Very High Risk,Unhealthy
+8378563200,4/30/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8378563200,5/1/2016,Sufficient,Active,Very High Risk,Needs less sitting time
+8378563200,5/2/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+8378563200,5/3/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+8378563200,5/4/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+8378563200,5/5/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+8378563200,5/6/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+8378563200,5/7/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8378563200,5/8/2016,Oversleep,Inactive,High Risk,Very Unhealthy
+8378563200,5/9/2016,InSufficient,Somewhat Active,Very High Risk,Unhealthy
+8378563200,5/10/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+8378563200,5/11/2016,Sufficient,Somewhat Active,Very High Risk,Needs less sitting time
+8378563200,5/12/2016,Oversleep,Inactive,Medium Risk,Unhealthy
+8792009665,4/12/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8792009665,4/13/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+8792009665,4/14/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+8792009665,4/15/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8792009665,4/20/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+8792009665,4/22/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8792009665,4/23/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+8792009665,4/27/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8792009665,4/28/2016,Sufficient,Low Activity,Very High Risk,Unhealthy
+8792009665,4/29/2016,Sufficient,Somewhat Active,High Risk,Needs less sitting time
+8792009665,4/30/2016,InSufficient,Low Activity,Very High Risk,Very Unhealthy
+8792009665,5/1/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+8792009665,5/2/2016,Sufficient,Inactive,Very High Risk,Unhealthy
+8792009665,5/3/2016,Oversleep,Inactive,Very High Risk,Very Unhealthy
+8792009665,5/4/2016,Sufficient,Inactive,Very High Risk,Unhealthy
